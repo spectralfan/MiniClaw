@@ -1,0 +1,15 @@
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/MiniClawApplication.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/config/MiniClawConfig.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/core/ConversationManager.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/core/LLMProvider.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/core/Message.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/providers/AnthropicProvider.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/providers/OllamaProvider.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/providers/OpenAICompatibleProvider.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/task/TaskManager.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/tools/Tool.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/tools/ToolDefinition.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/tools/ToolRegistry.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/tools/impl/CalculatorTool.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/tools/impl/TimeTool.java
+/workspace/projects/miniclaw/src/main/java/com/miniclaw/tools/impl/WeatherTool.java
