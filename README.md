@@ -1,0 +1,1 @@
+agent用的是环境变量DEEPSEEK_API_KEY
